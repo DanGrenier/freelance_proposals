@@ -1,24 +1,9 @@
-# README
+This is the Rails backend API for the proposals of a freelance web application that was created
+as part of an Angular2/Rails class.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+The proposal section lists previously created proposals and also lets you create a new proposal.
+This backend Rails API simply returns a list of proposals, one proposal or handles the creation of a proposal
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
